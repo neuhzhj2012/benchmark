@@ -1,0 +1,9 @@
+#data file
+*.json
+*.mat
+*.jpg
+*.png
+#doc file
+*.pdf
+*.txt
+*.zip
